@@ -7,6 +7,7 @@ def reverse_each_word(sentence)
 #    reverse_word = word.reverse
 #    reverse_list << "#{reverse_word}"
     word.reverse
+    binding.pry
   end
   binding.pry
 #  reverse_list.join(" ")

@@ -6,5 +6,5 @@ def reverse_each_word(sentence)
 #    reverse_list << "#{reverse_word}"
     "#{reverse_word}"
   end
-  reverse_list.join(" ")
+#  reverse_list.join(" ")
 end
